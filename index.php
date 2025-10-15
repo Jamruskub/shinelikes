@@ -2,7 +2,7 @@
 <html lang="th">
 <head>
   <meta charset="UTF-8">
-  <title>WINTERFELL BOLT</title>
+  <title>Shinelikesbolt</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
     html, body {
@@ -147,7 +147,7 @@
   <!-- <div class="title">WINTERFELL BOLT</div> -->
 
   <!-- MEMBER LIST button -->
-  <a href="member.php" class="member-link">MEMBER LIST</a>
+  <a href="member.php" class="member-link">MEMBER BOLT</a>
 
   <!-- Footer fixed bottom -->
   <p class="footer">Designed by Rxy Shinelikesbolt © 2025</p>
